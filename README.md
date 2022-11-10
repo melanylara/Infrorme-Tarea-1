@@ -1,2 +1,10 @@
 # Infrorme-Tarea-1
-![image](https://user-images.githubusercontent.com/105020538/201159992-ff4c5310-d504-4459-aee7-a59d95f3c163.png)
+># 1. OBJETIVOS 
+**OBJETIVO GENERAL**
+- Reconocer la importancia tanto de la representación de números mediante la 
+notación científica y de ingeniería como los conceptos básicos del circuito 
+eléctrico y todos los elementos que lo componen. 
+
+**OBJETIVOS ESPECÍFICOS**
+- Convertir unidades métricas y diferenciar los tipos de notación aplicando lo 
+aprendido en el capítulo N°1.

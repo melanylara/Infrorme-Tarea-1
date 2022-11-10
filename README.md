@@ -1,4 +1,13 @@
 # Infrorme-Tarea-1
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+**Nombre: MELANY ANAHI LARA SALTOS**
+
+**Asignatura: FUND. DE CIRCUITOS ELECTRICOS**
+
+**NRC: 10063** 
+
+**Fecha: 10/11/2022**
+
 ># 1. OBJETIVOS 
 **OBJETIVO GENERAL**
 - Reconocer la importancia tanto de la representación de números mediante la 

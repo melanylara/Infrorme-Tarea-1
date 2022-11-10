@@ -240,11 +240,10 @@ vez peligrosos si no se trabajan con las medidas necesarias de seguridad.
 - FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición 
 PEARSON EDUCACIÓN
 - TORRES. M. (2014). Electricidad. Recuperado de: 
-https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/c
-ontido/index.html
+https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/index.html
 - MecatrónicaLATAM. (2021). Código de colores de resistencias eléctricas. 
 Recuperado de: 
-https://www.mecatronicalatam.com/es/tutoriales/electronica/componenteselectronicos/resistor/codigo-de-colores-de-resistencias
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/resistor/codigo-de-colores-de-resistencias
 
 
 

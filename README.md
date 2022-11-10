@@ -125,7 +125,6 @@ eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del 
 8. Determine la conductancia para cada uno de los siguientes valores de resistencia:
 
 ![image](https://user-images.githubusercontent.com/105020538/201177238-c54eed4d-9113-4841-8d45-dbe458337b14.png)
-![image](https://user-images.githubusercontent.com/105020538/201177919-8c4169d1-4646-4e93-b581-489612b52da4.png)
 
 **2-4 FUENTES DE VOLTAJE Y CORRIENTE**
 

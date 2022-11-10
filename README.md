@@ -144,22 +144,57 @@ La fuente de potencia convierte voltaje de CA en CD
 11.  Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 
 bandas (a) rojo, violeta, naranja, oro (b) café, gris, rojo, plata
 
-![image](https://user-images.githubusercontent.com/105020538/201178012-a90a1800-73aa-42ff-8463-7e70e6fb2be3.png)
+![image](https://user-images.githubusercontent.com/105020538/201179458-945dc3cb-3b3b-4ac3-86ba-3da86b11e99f.png)
+
 
 12. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 
 5% de tolerancia:
 
-![image](https://user-images.githubusercontent.com/105020538/201178069-40c146e5-ad28-4c55-aeec-0b4d5030838e.png)
+![image](https://user-images.githubusercontent.com/105020538/201179611-fc8e8c54-3e70-493f-9840-df604d69d1fe.png)
 
 13.  Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. 
 Asuma que cada resistor tiene una tolerancia del 5 por ciento
 
-![image](https://user-images.githubusercontent.com/105020538/201178112-c03f3a9a-a061-46f5-955d-3d92244fdd34.png)
+![image](https://user-images.githubusercontent.com/105020538/201179682-a1618f46-58a2-4c38-b9d2-be142d71a7a3.png)
 
 14. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. 
 Asuma que cada resistor tiene tolerancia del 1 por ciento.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105020538/201179716-447fe64d-4f60-418b-8625-a257f6aea14b.png)
+
+15. ¿Cuál es la resistencia indicada por 4K7?
+
+![image](https://user-images.githubusercontent.com/105020538/201179748-b81e4c1e-d71f-4fc8-aeda-7fba7348e665.png)
+
+**2-6 EL CIRCUITO ELECTRICO**
+
+16. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la 
+posición 2.
+
+![image](https://user-images.githubusercontent.com/105020538/201179805-d0b3525d-fa9f-4dcb-bbca-47d36abc201d.png)
+
+17. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las 
+lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/105020538/201179832-8c01cd72-4f5f-4b02-9e22-d71128118991.png)
+
+18.  Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes 
+de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2 ) como 
+sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada 
+a R1
+
+![image](https://user-images.githubusercontent.com/105020538/201179881-6789c892-6f76-4bb2-a930-1dc8ce75ee5f.png)
+
+![image](https://user-images.githubusercontent.com/105020538/201179907-645170d6-dff9-461b-95ca-2e6fb70b4b7f.png)
+
+**2-7 7 MEDICIONES DE CIRCUITO BASICAS** 
+
+19.  Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y 
+el voltaje de fuente en la figura 2-72. 
+
+![image](https://user-images.githubusercontent.com/105020538/201180129-c72dd574-7542-4656-bf4c-45329613d4bc.png)
+
+
 
 
 

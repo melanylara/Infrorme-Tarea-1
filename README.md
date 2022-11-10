@@ -194,7 +194,57 @@ el voltaje de fuente en la figura 2-72.
 
 ![image](https://user-images.githubusercontent.com/105020538/201180129-c72dd574-7542-4656-bf4c-45329613d4bc.png)
 
+20. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en 
+la posición 1? ¿En la posición 2?
 
+![image](https://user-images.githubusercontent.com/105020538/201181422-03e9d218-e5f9-49e9-99f9-9e82ebf6c3ef.png)
+
+![image](https://user-images.githubusercontent.com/105020538/201181453-65d9e3b5-44d3-497b-8b69-c2722bcdfbc9.png)
+
+21.  En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir 
+la corriente a través del resistor y la que sale de la batería
+
+![image](https://user-images.githubusercontent.com/105020538/201181523-c95fe495-74fe-4cbc-ae20-2ccdeeb6489a.png)
+
+22. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74
+
+![image](https://user-images.githubusercontent.com/105020538/201181586-2ec5d469-30a4-48e7-b2c7-f1c125cba614.png)
+
+23. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de 
+intervalo de ohmmetro: (a) manecilla en 2, ajuste de intervalo en 310 (b) manecilla en 15, 
+ajuste de intervalo en 3100,000 (c) manecilla en 45, ajuste de intervalo en 3100
+
+![image](https://user-images.githubusercontent.com/105020538/201181770-c2373b06-7584-493e-85a8-cb0cbfc1f98e.png)
+
+24. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 
+2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo 
+apropiados en todos los casos. (a) I1 (b) V1 (c) R1
+
+![image](https://user-images.githubusercontent.com/105020538/201181860-32d9f855-ef54-4fe3-89ff-2fdd432cd52e.png)
+
+![image](https://user-images.githubusercontent.com/105020538/201181888-fb288292-ef58-4aae-b899-1dbd82b1582d.png)
+
+># 4. VIDEO
+
+https://youtu.be/ANHaQWPBaGg
+
+># 5. CONCLUSIONES
+
+- Es una forma muy conveniente para escribir números pequeños o grandes y hacer 
+cálculos con ellos.
+- De todo lo anterior se desprende que los circuitos eléctricos son interesantes, pero a la 
+vez peligrosos si no se trabajan con las medidas necesarias de seguridad.
+
+># 6. BIBLIOGRAFÍA
+
+- FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición 
+PEARSON EDUCACIÓN
+- TORRES. M. (2014). Electricidad. Recuperado de: 
+https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/c
+ontido/index.html
+- MecatrónicaLATAM. (2021). Código de colores de resistencias eléctricas. 
+Recuperado de: 
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componenteselectronicos/resistor/codigo-de-colores-de-resistencias
 
 
 
